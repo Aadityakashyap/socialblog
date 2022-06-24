@@ -1,2 +1,13 @@
 # socialblog
-Social Blog is a website like social media. Its feature is people can post their topics written in a conversational style with pictures that interest them.
+
+In this project (Social Blog) I'm developing a website like simple social media, where peoples can share their memories or daily life experience and topics that interest them, usually with photographs they find interesting. This is a project based on MERN stack.
+
+This Social Blog project made with MERN (MongoDB, ExpressJS, ReactJS, NodeJS) stack. 
+
+In this project for deployment of the project I'm using Azure Cosmos DB, Azure App Service (Web App) and Visual Studio Code for development and deployment.
+
+Project Video Demo Link: 
+
+Link to website: https://socialmediablog.netlify.app/
+
+Alternate Link to website: https://socialblog.azurewebsites.net/
