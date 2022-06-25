@@ -14,7 +14,7 @@ Link to website: https://socialmediablog.netlify.app/
 
 Alternate Link to website: https://socialblog.azurewebsites.net/
 
-Video Demo Link: https://drive.google.com/file/d/1fd18ehqpvSAzrkc6P6XgFtj6Trv6pJOn/view?usp=sharing
+Video Demo Link: https://drive.google.com/file/d/1TXKDr1zMD_L4uj50pp7x6sw3fHlkO1Tr/view?usp=sharing
 
 Snapshot of Website:
 ![Social Blog](home.JPG)
