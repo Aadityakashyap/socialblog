@@ -1,4 +1,4 @@
-# socialblog
+# Social Blog
 
 In this project (Social Blog) I'm developing a website like simple social media, where peoples can share their memories or daily life experience and topics that interest them, usually with photographs they find interesting. This is a project based on MERN stack.
 
