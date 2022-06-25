@@ -1,0 +1,7 @@
+body {
+    background-color: #f7f8fc;
+}
+* {
+    font-family: 'Raleway', sans-serif !important;
+    transition: all ease 0.5s;
+}
