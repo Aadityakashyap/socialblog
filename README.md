@@ -10,7 +10,7 @@ To Start this project => **npm install && npm start**
 
 Project Video Demo Link: 
 
-Link to website: https://socialmediablog.netlify.app/
+Link to website: https://socialmediablog.netlify.app/ (Always Working)
 
 Alternate Link to website: https://socialblog.azurewebsites.net/
 
