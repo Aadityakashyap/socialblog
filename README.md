@@ -12,7 +12,7 @@ Project Video Demo Link:
 
 Link to website: https://socialmediablogg.netlify.app/ (Always Working)
 
-Alternate Link to website: https://socialblogg.azurewebsites.net/
+Alternate Link to website: https://socialblog.azurewebsites.net/
 
 Video Demo Link: https://drive.google.com/file/d/1TXKDr1zMD_L4uj50pp7x6sw3fHlkO1Tr/view?usp=sharing
 
